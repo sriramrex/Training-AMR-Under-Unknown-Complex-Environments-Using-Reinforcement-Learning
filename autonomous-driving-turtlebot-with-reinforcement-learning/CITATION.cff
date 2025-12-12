@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: autonomous-driving-turtlebot-with-reinforcement-learning
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: lukovicaleksa
+    email: lukovic.aleksa96@gmail.com
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/lukovicaleksa/autonomous-driving-turtlebot-with-reinforcement-learning
+    description: >-
+      Implementation of Q-learning algorithm  for the mobile
+      robot (turtlebot3_burger) in ROS
+repository-code: >-
+  https://github.com/lukovicaleksa/autonomous-driving-turtlebot-with-reinforcement-learning.git
+url: >-
+  https://github.com/lukovicaleksa/autonomous-driving-turtlebot-with-reinforcement-learning
+abstract: >-
+  This code is inspired from the github repository of Mr.
+  Aleksa Lukovic under the project titled "autonomous
+  driving turtlebot with reinforcement learning". I deliver
+  my deep gratude to him for making my project come to life
