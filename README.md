@@ -1,4 +1,4 @@
-# Training AMR Under Unknown Complex Environments Using Reinforcement Learning
+# Training AMR Under Unknown Complex Environments Using Reinforcement Learning (Mini Project)
 
 An **Autonomous Mobile Robot (AMR)** navigation project focused on **learning-based control under unknown and complex environments**, using **Reinforcement Learning (RL)** integrated with **ROS, Gazebo, and TurtleBot3**.
 
