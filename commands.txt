@@ -1,0 +1,26 @@
+alias python=python3
+source /opt/ros/dashing/setup.bash
+source ~/turtlebot3_ws/install/setup.bash
+source ~/venv/bin/activate
+
+ros2 launch turtlebot3_gazebo turtlebot3_dqn_stage*.launch.py
+
+******* Open new tab *******
+
+alias python=python3
+source /opt/ros/dashing/setup.bash
+source ~/turtlebot3_ws/install/setup.bash
+source ~/venv/bin/activate
+
+cd ...../gymTest
+python *.py
+
+******* Open new tab *******
+
+alias python=python3
+source /opt/ros/dashing/setup.bash
+source ~/turtlebot3_ws/install/setup.bash
+source ~/venv/bin/activate
+
+cd ~/turtlebot3_ws/src
+tensorboard --logdir=tensorboard_session --bind_all
